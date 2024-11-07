@@ -27,6 +27,7 @@ export default function StockApp() {
             <th>종가</th>
             <th>시가</th>
             <th>고가</th>
+            <th>저가</th>
             <th>거래대금</th>
           </tr>
         </thead>
@@ -35,6 +36,11 @@ export default function StockApp() {
             return (
               <tr key={i}>
                 <td>{e.date}</td>
+                <td>{e.tradePrice}</td>
+                <td>{e.openingPrice}</td>
+                <td>{e.highPrice}</td>
+                <td>{e.lowPrice}</td>
+                <td>{e.candleAccTradePrice}</td>
               </tr>
             );
           })}

@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2024-10-07",
+    "tradePrice": 59300,
+    "openingPrice": 60200,
+    "highPrice": 61900,
+    "lowPrice": 58900,
+    "candleAccTradePrice": 8088131021800
+  },
+  {
+    "date": "2024-10-14",
+    "tradePrice": 59200,
+    "openingPrice": 59500,
+    "highPrice": 61400,
+    "lowPrice": 59100,
+    "candleAccTradePrice": 6057087344700
+  },
+  {
+    "date": "2024-10-21",
+    "tradePrice": 55900,
+    "openingPrice": 59000,
+    "highPrice": 60000,
+    "lowPrice": 55800,
+    "candleAccTradePrice": 7401459379100
+  }
+]
